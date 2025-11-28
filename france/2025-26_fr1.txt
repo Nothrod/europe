@@ -186,22 +186,22 @@
 
 » Matchday 13
   Fri Nov/21
-    20.45  OGC Nice                v Olympique de Marseille
+    20.45  OGC Nice                v Olympique de Marseille 1-5 (0-2)
   Sat Nov/22
-    17.00  Racing Club de Lens     v RC Strasbourg Alsace
-    19.00  Stade Rennais FC 1901   v AS Monaco FC
-    21.05  Paris Saint-Germain FC  v Le Havre AC
+    17.00  Racing Club de Lens     v RC Strasbourg Alsac  1-0 (0-0)
+    19.00  Stade Rennais FC 1901   v AS Monaco FC  4-1 (1-0)
+    21.05  Paris Saint-Germain FC  v Le Havre AC  3-0 (1-0)
   Sun Nov/23
-    15.00  AJ Auxerre              v Olympique Lyonnais
-    17.15  FC Nantes               v FC Lorient
-           Toulouse FC             v Angers SCO
-           Stade Brestois 29       v FC Metz
-    20.45  Lille OSC               v Paris FC
+    15.00  AJ Auxerre              v Olympique Lyonnais 0-0 (0-0)
+    17.15  FC Nantes               v FC Lorient  1-1 (0-1)
+           Toulouse FC             v Angers SCO  0-1 (0-1)
+           Stade Brestois 29       v FC Metz 3-2 (1-1)
+    20.45  Lille OSC               v Paris FC  4-2 (1-1)
 
 
 » Matchday 14
   Fri Nov/28
-    20.45  FC Metz                 v Stade Rennais FC 1901
+    20.45  FC Metz                 v Stade Rennais FC 1901 0-1 (0-1)
   Sat Nov/29
     17.00  AS Monaco FC            v Paris Saint-Germain FC
     19.00  Paris FC                v AJ Auxerre
@@ -484,3 +484,4 @@
            Lille OSC               v AJ Auxerre
            RC Strasbourg Alsace    v AS Monaco FC
            Stade Brestois 29       v Angers SCO
+
